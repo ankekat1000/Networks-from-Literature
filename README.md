@@ -2,4 +2,4 @@
 
 This Python Code extracts a simple social network from the novel Moby Dick by Herman Melville.
 
-Text found on www.gutenberg.org
+Text from www.gutenberg.org <3
