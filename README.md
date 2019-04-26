@@ -1,6 +1,6 @@
 # Networks-from-Literature
 
-This Python Code extracts a simple social network from the novel Moby Dick by Herman Melville.
+This Python Notebook extracts a simple social network from the novel Moby Dick by Herman Melville.
 
 
 ![alt text](https://cdn.pixabay.com/photo/2014/04/02/10/22/whale-303626_960_720.png)
