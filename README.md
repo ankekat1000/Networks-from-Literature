@@ -3,7 +3,7 @@
 This Python Code extracts a simple social network from the novel Moby Dick by Herman Melville.
 
 
-![alt text](https://ichef.bbci.co.uk/images/ic/480x270/p01l643n.jpg)
+![alt text](https://cdn.pixabay.com/photo/2014/04/02/10/22/whale-303626_960_720.png)
 
 Text from www.gutenberg.org
 
